@@ -1,0 +1,270 @@
+@media only screen and (max-width:1124px) {
+    .logo svg {
+        width: 110px;
+        height: 20px;
+    }
+
+    .list_items ul li {
+        padding: 0px 14px;
+    }
+
+    .list_items ul li a {
+        font-size: 14px;
+    }
+
+    .icons_tray svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .tracking img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .text h1 {
+        font-size: 14px;
+    }
+
+    .btn a {
+        font-size: 12px;
+    }
+
+    /* Navbar End */
+    /* Sec_start */
+    .main_sec_1 {
+        justify-content: center;
+        gap: 43px;
+        display: flex;
+        flex-direction: column-reverse;
+        height: auto;
+    }
+
+    .text_sec {
+        text-align: center;
+        padding: 0px 0px;
+        width: 100%;
+    }
+
+    .text_sec h1 {
+        padding-bottom: 9px;
+    }
+
+    .text_sec p {
+        padding-bottom: 22px;
+    }
+
+    .btn_sec_1 {
+        margin-bottom: 52px;
+        width: 100%;
+        padding: 19px 12px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .banner_sec {
+        width: 100%;
+    }
+
+    .main_btn_1 {
+        padding: 0px 52px;
+    }
+
+    /* Sec 1 end */
+    /* Sec 2 Start */
+    .card_main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* Sec 2 end */
+    /* Sec3 start */
+    .container_sec_3 {
+        padding: 0px 69px;
+        max-width: 1227px;
+        margin: 0 auto;
+    }
+
+    .main_sec_4 {
+        padding: 44px 84px;
+        display: flex;
+        align-items: center;
+        gap: 108px;
+    }
+
+    /* End */
+    /* 5 syart */
+    .layout {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        text-align: center;
+        padding: 64px 51px;
+        gap: 88px;
+    }
+}
+
+@media only screen and (max-width:900px) {
+    .main_header_2 {
+        justify-content: space-between;
+        padding: 0px 33px;
+    }
+
+    .logo svg {
+        width: 109px;
+        height: 23px;
+    }
+
+    .list_items {
+        display: none;
+    }
+
+    .tracking {
+        display: none;
+    }
+
+    .main_header_1 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 34px;
+    }
+
+    .clock {
+        display: none;
+    }
+
+    .icons_tray svg {
+        width: 24px;
+        height: 21px;
+    }
+
+    .heart {
+        display: none;
+    }
+
+    .bars {
+        order: 1;
+    }
+
+    .bars,
+    .search_bars {
+        display: block;
+    }
+
+    .main_sec_3 {
+        gap: 12px;
+        flex-direction: column-reverse;
+    }
+
+    .banner_sec_3 {
+        width: 100%;
+    }
+
+    .text_sec_3 {
+        width: auto;
+        padding: 34px 64px;
+    }
+
+    .btn_sec_2 {
+        padding: 12px 15px;
+    }
+
+    .text_sec_3 h1 {
+        font-size: 33px;
+    }
+
+    .main_sec_4 {
+        gap: 53px;
+        flex-direction: column;
+        padding: 55px 0px;
+    }
+
+    .m_1_p,
+    .m_2_p {
+        text-align: center;
+        width: auto;
+    }
+
+    .layout {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 55px 0px;
+    }
+
+    .L-1 {
+        width: 285px;
+        height: 140px;
+    }
+
+}
+
+@media only screen and (max-width:515px) {
+    .main_header_1 {
+        display: none;
+    }
+
+    .main_sec_6 {
+        height: auto;
+    }
+
+    .text_b_n {
+        padding: 32px 0px;
+        width: 90%;
+    }
+
+    .text_b_n h1 {
+        font-size: 31px;
+    }
+
+    .text_b_n p {
+        font-size: 15px;
+    }
+
+    .career_btn {
+        width: 30%;
+        margin-bottom: 34px;
+    }
+
+    .clc h1 {
+        font-size: 21px;
+    }
+
+    .clc h3 {
+        font-size: 12px;
+    }
+
+    .container_sec_3 {
+        padding: 0px 11px;
+        max-width: 1227px;
+        margin: 0 auto;
+    }
+
+    .card_1 {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 24px;
+        width: 222px;
+    }
+
+    .card_1 h1 {
+        font-size: 18px;
+    }
+
+    .text_sec_3 {
+        width: auto;
+        padding: 34px 30px;
+    }
+
+
+    .career_btn a {
+        font-size: 13px;
+    }
+
+    .icons_tray {
+        gap: 14px;
+    }
+}
